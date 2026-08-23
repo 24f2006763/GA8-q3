@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "rewrites": [
+    { "source": "/promote", "destination": "/api/promote" }
+  ]
+}
